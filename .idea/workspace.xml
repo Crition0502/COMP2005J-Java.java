@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BDIC-Java-COMP2005J.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day01_HelloWorld/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day01_HelloWorld/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day01_HelloWorld/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_1_Valuable/VariableTest01_BasicIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_1_Valuable/VariableTest02_Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_1_Valuable/VariableTest03_AutoConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_1_Valuable/VariableTest04_CoercionConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_1_Valuable/VariableTest05_BasicWrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_2_String/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_3_BinaryAndCharacter/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day02_3_BinaryAndCharacter/NameRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_01_1_Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_01_2_TheHundredsNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_02_SetValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_03_Comparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_04_LogicCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_05_BiteOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_06_SanYuanOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/Operator_07_IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day03_OperatorCalculation/ReviewVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/For/For_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/For/For_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/If/IfExcercise_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/If/IfExcercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/If/IfTesting_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/If/IfTesting_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/ScannerUsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/Switch/SwitchExcercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/Switch/SwitchTesting_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/Switch/SwitchTesting_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/Switch/SwitchTesting_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day04_LogicSentence/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_Loop/ForLoop_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_Loop/ForLoop_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_Loop/ForLoop_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05_Loop/Loop_GCDandLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing_Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DnH4qlKUzDcF45gw0HLqQJeQYH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Loop_GCDandLCM">
+    <configuration name="ForLoop_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_Loop.ForLoop_02" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForWhileTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfTest2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop_GCDandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05_Loop.Loop_GCDandLCM" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04_LogicSentence.ScannerTest" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day04_LogicSentence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Loop_GCDandLCM" />
+        <item itemvalue="应用程序.ForLoop_02" />
+        <item itemvalue="应用程序.ForWhileTest" />
+        <item itemvalue="应用程序.ScannerTest" />
+        <item itemvalue="应用程序.IfTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="" />
+      <created>1661327743665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661327743665</updated>
+      <workItem from="1661327750050" duration="1125000" />
+      <workItem from="1661328897464" duration="1015000" />
+      <workItem from="1661331291037" duration="768000" />
+      <workItem from="1661337936956" duration="1159000" />
+      <workItem from="1661339119540" duration="2496000" />
+      <workItem from="1661341653284" duration="1073000" />
+      <workItem from="1661342898837" duration="1175000" />
+      <workItem from="1661344430965" duration="1299000" />
+      <workItem from="1661351469966" duration="727000" />
+      <workItem from="1661392974923" duration="2152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
