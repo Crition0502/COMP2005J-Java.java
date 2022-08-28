@@ -18,11 +18,17 @@ package Day09_OOPFunctionAndParm;
  *
  */
 
+import org.jetbrains.annotations.NotNull;
+
 public class AnonymousObject {
     public static void main(String[] args) {
         Phone p = new Phone();
-//		p = null;
+
+        //打印对象p的地址
         System.out.println(p);
+
+//        p = null;
+//        System.out.println(p);
 
         p.sendEmail();
         p.playGame();
@@ -45,7 +51,7 @@ public class AnonymousObject {
 }
 
 class PhoneMall{
-    public void show(Phone phone){
+    public void show(@NotNull Phone phone){
         //使用类之前都需要进行说明
         phone.sendEmail();
         phone.playGame();

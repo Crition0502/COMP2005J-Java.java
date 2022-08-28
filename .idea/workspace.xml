@@ -9,47 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Java-COMP2005J">
-      <change afterPath="$PROJECT_DIR$/lib/annotations-20.1.0-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations-20.1.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations-20.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_Project01_FamilyAccount/FamilyAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day05_Project01_FamilyAccount/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_Array/ArrayDefinition_InitializeAndMenmory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_Array/ArrayDefinition_NewArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_Array/ArrayExcercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_Array/TwoDimensionalArray_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06_Array/TwoDimensionalArray_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayExer_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayExer_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayExer_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayPlus_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayPlus_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_1_ArrayImprove/ArrayPlus_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_2_Array_SortAlgorithm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_2_Array_SortAlgorithm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day07_2_Array_SortAlgorithm/YangHuiTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/CircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/ClassIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/GirlFriendIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/OOPIntro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/PersonExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/PersonUniltil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/PrintRectangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/Rectangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day08_OOPIntro/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayUtilTesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDIC-Java-COMP2005J.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BDIC-Java-COMP2005J.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05_Loop/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05_Loop/BreakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05_Loop/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05_Loop/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05_Loop/PrimeNumber_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05_Loop/PrimeNumber_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day05_Loop/PrimeNumber_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day05_Loop/PrimeNumber_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +35,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/src/com/atguigu/java/UserTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -95,14 +58,40 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArrayUtilTesting">
+  <component name="RunManager" selected="应用程序.AnonymousObject">
+    <configuration name="AnonymousObject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.AnonymousObject" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day09_OOPFunctionAndParm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.AnonymousObject" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day09_OOPFunctionAndParm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayUtilTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.ArrayUtilTesting" />
       <module name="BDIC-Java-COMP2005J" />
@@ -116,38 +105,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_OOPIntro.CircleArea" />
-      <module name="BDIC-Java-COMP2005J" />
+    <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.InstanceTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_OOPIntro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_OOPIntro.PersonExer" />
-      <module name="BDIC-Java-COMP2005J" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day08_OOPIntro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintRectangular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_OOPIntro.PrintRectangular" />
-      <module name="BDIC-Java-COMP2005J" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day08_OOPIntro.*" />
+          <option name="PATTERN" value="com.atguigu.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.AnonymousObject" />
+        <item itemvalue="应用程序.AnonymousObject (1)" />
+        <item itemvalue="应用程序.InstanceTest" />
         <item itemvalue="应用程序.ArrayUtilTesting" />
         <item itemvalue="应用程序.StudentList" />
-        <item itemvalue="应用程序.PrintRectangular" />
-        <item itemvalue="应用程序.CircleArea" />
-        <item itemvalue="应用程序.PersonExer" />
       </list>
     </recent_temporary>
   </component>
@@ -205,8 +167,24 @@
       <workItem from="1661476350650" duration="1475000" />
       <workItem from="1661485120511" duration="7441000" />
       <workItem from="1661504567616" duration="6033000" />
-      <workItem from="1661656827955" duration="1443000" />
+      <workItem from="1661656827955" duration="1750000" />
+      <workItem from="1661658617941" duration="230000" />
     </task>
+    <task id="LOCAL-00001" summary="Java-COMP2005J">
+      <created>1661658435013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661658435013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java-COMP2005J">
+      <created>1661658450286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661658450286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
