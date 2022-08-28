@@ -41,7 +41,7 @@ class PrimeNumber_02 {
         //获取当前时间距离1970-01-01 00:00:00 的毫秒数
         long end = System.currentTimeMillis();
         System.out.println("质数的个数为：" + count);
-        System.out.println("所花费的时间为：" + (end - start));//17110 - 优化一：break:1546 - 优化二：13
+        System.out.println("所花费的时间为：" + (end - start) + " million seconds");//17110 - 优化一：break:1546 - 优化二：13
 
     }
 }
