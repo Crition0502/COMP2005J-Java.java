@@ -1,0 +1,19 @@
+<changelist name="在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]" date="1661658203921" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行更新之前于 2022/8/28 11:43 取消提交了变更 [变更]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="lib/annotations-20.1.0-sources.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0-sources.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="lib/annotations-20.1.0.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="lib/annotations-20.1.0-javadoc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0-javadoc.jar" />
+  </binary>
+</changelist>
