@@ -9,9 +9,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Java-COMP2005J">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/MethodOverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/OverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/OverLoadExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/PassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValuePointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValueTransferFunction_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValueTransferFunction_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/EncapsulationDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/JavaBeanIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/KeyWord_This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/OrderAnotherPackSituation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/OrderOfGivingValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Order_PrivateExer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/PackageDogTesting/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/PackageImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/ValueTransfer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayPrintAddress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,8 +84,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.AnonymousObject">
-    <configuration name="AnonymousObject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.Circle">
+    <configuration name="AnonymousObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.AnonymousObject" />
       <module name="BDIC-Java-COMP2005J" />
       <extension name="coverage">
@@ -92,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayUtilTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.ArrayUtilTesting" />
+    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.ArrayPrint" />
       <module name="BDIC-Java-COMP2005J" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.InstanceTest" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.Circle" />
+      <module name="BDIC-Java-COMP2005J" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="PATTERN" value="Day09_OOPFunctionAndParm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08_OOPIntro.StudentList" />
+    <configuration name="MethodOverLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.MethodOverLoad" />
       <module name="BDIC-Java-COMP2005J" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_OOPIntro.*" />
+          <option name="PATTERN" value="Day09_OOPFunctionAndParm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.ValueTransfer" />
+      <module name="BDIC-Java-COMP2005J" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day09_OOPFunctionAndParm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Circle" />
+        <item itemvalue="应用程序.ValueTransfer" />
+        <item itemvalue="应用程序.MethodOverLoad" />
+        <item itemvalue="应用程序.ArrayPrint" />
         <item itemvalue="应用程序.AnonymousObject" />
-        <item itemvalue="应用程序.AnonymousObject (1)" />
-        <item itemvalue="应用程序.InstanceTest" />
-        <item itemvalue="应用程序.ArrayUtilTesting" />
-        <item itemvalue="应用程序.StudentList" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +201,10 @@
       <workItem from="1661485120511" duration="7441000" />
       <workItem from="1661504567616" duration="6033000" />
       <workItem from="1661656827955" duration="1750000" />
-      <workItem from="1661658617941" duration="230000" />
+      <workItem from="1661658617941" duration="4481000" />
+      <workItem from="1661697890704" duration="962000" />
+      <workItem from="1661768440526" duration="2326000" />
+      <workItem from="1661774992429" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -184,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661658450286</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java-COMP2005J">
+      <created>1661659125848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659125848</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
