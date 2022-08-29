@@ -9,27 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Java-COMP2005J">
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/MethodOverLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/OverLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/OverLoadExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/PassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValuePointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValueTransferFunction_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ValueTransferFunction_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/EncapsulationDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/JavaBeanIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/KeyWord_This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/OrderAnotherPackSituation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/OrderOfGivingValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Order_PrivateExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/PackageDogTesting/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/PackageImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/ValueTransfer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/ArrayPrintAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +186,7 @@
       <workItem from="1661658617941" duration="4481000" />
       <workItem from="1661697890704" duration="962000" />
       <workItem from="1661768440526" duration="2326000" />
-      <workItem from="1661774992429" duration="2815000" />
+      <workItem from="1661774992429" duration="3901000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -227,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661659125848</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java-COMP2005J">
+      <created>1661778969980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661778969980</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

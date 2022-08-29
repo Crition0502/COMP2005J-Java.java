@@ -35,7 +35,7 @@ class Person{
     String name;
     int age;
 
-    //构造器
+    //构造器!!!
     public Person(){
         System.out.println("Person().....");
     }
