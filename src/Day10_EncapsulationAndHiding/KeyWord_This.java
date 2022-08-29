@@ -48,7 +48,6 @@ class PersonIntro{
 
 
     public PersonIntro(){
-
 //		this.eat();
         String info = "Person初始化时，需要考虑如下的1,2,3,4...(共40行代码)";
         System.out.println(info);
@@ -57,13 +56,11 @@ class PersonIntro{
     public PersonIntro(String name){
         this();
         this.name = name;
-
     }
 
     public PersonIntro(int age){
         this();
         this.age = age;
-
     }
 
     public PersonIntro(String name,int age){
@@ -73,9 +70,14 @@ class PersonIntro{
         //Person初始化时，需要考虑如下的1,2,3,4...(共40行代码)
     }
 
+
+    //**************************************************
+    //构造JavaBean
     public void setName(String name){
         this.name = name;
     }
+    //假若使用public void etName(String name){name = name;}
+    //这样的时候两个name均为这个方法内的name，程序逻辑出错
     public String getName(){
         return this.name;
     }
@@ -85,11 +87,14 @@ class PersonIntro{
     public int getAge(){
         return this.age;
     }
+    //**************************************************
+
 
     public void eat(){
         System.out.println("人吃饭");
         this.study();
     }
+
     public void study(){
         System.out.println("人学习");
     }

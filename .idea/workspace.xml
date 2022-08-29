@@ -8,10 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Java-COMP2005J">
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.8.29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Construct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/KeyWord_This.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/KeyWord_This.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +185,7 @@
       <workItem from="1661658617941" duration="4481000" />
       <workItem from="1661697890704" duration="962000" />
       <workItem from="1661768440526" duration="2326000" />
-      <workItem from="1661774992429" duration="3901000" />
+      <workItem from="1661774992429" duration="4941000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661778969980</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update 2022.8.29">
+      <created>1661779940867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661779940867</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +241,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java-COMP2005J" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java-COMP2005J" />
+    <MESSAGE value="Update 2022.8.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.8.29" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
