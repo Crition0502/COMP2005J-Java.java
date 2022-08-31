@@ -47,8 +47,8 @@ public class Person {
 //		return age;
 //	}
 
-    public void setName(String n){
-        name = n;
+    public void setName(String name){
+        this.name = name;
     }
     public String getName(){
         return name;
