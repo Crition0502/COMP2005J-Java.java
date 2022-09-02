@@ -8,10 +8,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.8.29 -- Times:04">
-      <change afterPath="$PROJECT_DIR$/Testing/Week1/Hello.java" afterDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.2 -- Times:01">
+      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/InheritancePrivateTesting/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/InheritancePrivateTesting/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day11_Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day11_Inheritance/InheritanceIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_Inheritance/InheritanceIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +207,7 @@
       <workItem from="1662020830180" duration="959000" />
       <workItem from="1662032064840" duration="338000" />
       <workItem from="1662090165851" duration="495000" />
-      <workItem from="1662110117823" duration="820000" />
+      <workItem from="1662110117823" duration="4404000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661782290017</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update 2022.9.2 -- Times:01">
+      <created>1662110964146</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662110964147</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +288,8 @@
     <MESSAGE value="Update 2022.8.29" />
     <MESSAGE value="Update 2022.8.29 -- Times:03" />
     <MESSAGE value="Update 2022.8.29 -- Times:04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.8.29 -- Times:04" />
+    <MESSAGE value="Update 2022.9.2 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.2 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
