@@ -9,36 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.8.29 -- Times:04">
-      <change afterPath="$PROJECT_DIR$/Testing/Week1/testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer02/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer02/TriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer03/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer03/BoyGirlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer03/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer04/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer04/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer04/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer05/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer05/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer05/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer05/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/CMUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/CustomerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/CustomerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/Demo/CMUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/Demo/CustomerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/Demo/CustomerListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_Project02_BankManagement/Demo/CustomerViewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/InheritanceIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Keys.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week1/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDIC-Java-COMP2005J.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COMP2005J-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_EncapsulationAndHiding/Exer01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day11_Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_Inheritance/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +22,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,29 +52,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/A.Document/GradeTwo1/程序设计/Java/COMP2005J-Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -113,7 +94,7 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testing">
+  <component name="RunManager" selected="Application.Hello">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day09_OOPFunctionAndParm.Circle" />
       <module name="COMP2005J-Java" />
@@ -127,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_EncapsulationAndHiding.Exer01.PersonTest" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.Hello" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_EncapsulationAndHiding.Exer01.*" />
+          <option name="PATTERN" value="Week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,21 +154,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="COMP2005J-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="COMP2005J-Java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.testing" />
         <item itemvalue="Application.Circle" />
       </list>
@@ -232,6 +201,12 @@
       <workItem from="1661935301305" duration="1486000" />
       <workItem from="1661947963495" duration="234000" />
       <workItem from="1661948212727" duration="908000" />
+      <workItem from="1661949444366" duration="2970000" />
+      <workItem from="1661999790664" duration="2007000" />
+      <workItem from="1662020830180" duration="959000" />
+      <workItem from="1662032064840" duration="338000" />
+      <workItem from="1662090165851" duration="495000" />
+      <workItem from="1662110117823" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -300,6 +275,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Java-COMP2005J" />
     <MESSAGE value="Update 2022.8.29" />
     <MESSAGE value="Update 2022.8.29 -- Times:03" />

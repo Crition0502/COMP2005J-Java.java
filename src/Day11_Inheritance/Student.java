@@ -2,19 +2,21 @@ package Day11_Inheritance;
 
 public class Student extends Person{
 
-    //	String name;
+//    String name;
 //	int age;
     String major;
 
     public Student(){
 
     }
+
     public Student(String name,int age,String major){
         this.name = name;
 //		this.age = age;
         setAge(age);
         this.major = major;
     }
+
 //	public void eat(){
 //		System.out.println("吃饭");
 //	}
