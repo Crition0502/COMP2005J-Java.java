@@ -34,3 +34,16 @@ There are many rules for identifiers:
 3.Arrays store more information
 
 4.Arrays are objects
+
+In Java, int[] arrayName; 
+only declares a variable called arrayName
+
+In Java we must both declare and construct an array
+
+Construction of an array uses the syntax
+
+new type[arraySize]
+
+type[] arrayName = new type[size];
+
+int[] numbers = new int[10];
