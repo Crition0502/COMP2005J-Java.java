@@ -8,19 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.5 -- Times:01">
-      <change afterPath="$PROJECT_DIR$/Testing/Week2/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week2/staticTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/PermissionModify.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/SubOrder/OrderTestAnotherPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/SubOrder/subOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/SuperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Order.java" afterDir="false" />
-    </list>
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.6 -- Times:01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +218,7 @@
       <workItem from="1662390283896" duration="865000" />
       <workItem from="1662435584957" duration="648000" />
       <workItem from="1662459198594" duration="414000" />
-      <workItem from="1662462990476" duration="1085000" />
+      <workItem from="1662462990476" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -316,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662375514957</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update 2022.9.6 -- Times:01">
+      <created>1662464361347</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662464361347</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +339,8 @@
     <MESSAGE value="Update 2022.9.3 -- Times:01" />
     <MESSAGE value="Update 2022.9.3 -- Times:02" />
     <MESSAGE value="Update 2022.9.5 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.5 -- Times:01" />
+    <MESSAGE value="Update 2022.9.6 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.6 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
