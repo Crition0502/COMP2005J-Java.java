@@ -8,19 +8,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.3 -- Times:02">
-      <change afterPath="$PROJECT_DIR$/src/Day12_1_OverrideAndOverwrite/PeopleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_1_OverrideAndOverwrite/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_1_OverrideAndOverwrite/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Ordertest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_8_28_11_43____.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/annotations-20.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_8_28_11_43_取消提交了变更_[变更]/shelved.patch" beforeDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.5 -- Times:01">
+      <change afterPath="$PROJECT_DIR$/Testing/Week2/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week2/staticTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/PermissionModify.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/SubOrder/OrderTestAnotherPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/SubOrder/subOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12_3_Super/SuperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/Week2/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Week2/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12_2_PermissionModify/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,26 +102,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ordertest">
-    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.DataType" />
+  <component name="RunManager" selected="Application.SuperTest">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.ArrayTest" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Hello" />
-      <module name="COMP2005J-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,8 +142,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Variables" />
+    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12_3_Super.SuperTest" />
+      <module name="COMP2005J-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12_3_Super.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.staticTesting" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperTest" />
+        <item itemvalue="Application.ArrayTest" />
+        <item itemvalue="Application.staticTesting" />
         <item itemvalue="Application.Ordertest" />
         <item itemvalue="Application.Lab2" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.DataType" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +225,12 @@
       <workItem from="1662110117823" duration="4432000" />
       <workItem from="1662176348381" duration="6902000" />
       <workItem from="1662348875307" duration="1895000" />
-      <workItem from="1662375050797" duration="423000" />
+      <workItem from="1662375050797" duration="4327000" />
+      <workItem from="1662386597589" duration="1495000" />
+      <workItem from="1662390283896" duration="865000" />
+      <workItem from="1662435584957" duration="648000" />
+      <workItem from="1662459198594" duration="414000" />
+      <workItem from="1662462990476" duration="1085000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -305,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662191912854</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update 2022.9.5 -- Times:01">
+      <created>1662375514957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662375514957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +343,8 @@
     <MESSAGE value="Update 2022.9.2 -- Times:02" />
     <MESSAGE value="Update 2022.9.3 -- Times:01" />
     <MESSAGE value="Update 2022.9.3 -- Times:02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.3 -- Times:02" />
+    <MESSAGE value="Update 2022.9.5 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.5 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

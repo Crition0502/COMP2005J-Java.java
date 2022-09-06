@@ -7,6 +7,10 @@ public class Order {
     protected int orderProtected;
     public int orderPublic;
 
+    public void Order(){
+
+    }
+
     private void methodPrivate(){
         orderPrivate = 1;
         orderDefault = 2;
