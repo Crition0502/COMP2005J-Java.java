@@ -8,19 +8,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.12 -- Times:01">
-      <change afterPath="$PROJECT_DIR$/Testing/Week4/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week4/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week4/StaticTestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/APITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/lombokTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/lonbokTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/Week5/reference.java" afterDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.18 -- Times:01">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Week1_TimeCostandSort/TimeCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week2/arrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week5/CreatArrayWithoutNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week5/arrayForEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week5/equal2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week5/time.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/EnumType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/Lab_Week6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/Lab_Week6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/StaticVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/Visibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COMP2005J-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COMP2005J-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/Week3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Week3/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,37 +66,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/A.Document/GradeTwo1/程序设计/Java/COMP2005J-Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/A.Document/GradeTwo1/程序设计/Java/COMP2005J-Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -103,13 +110,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticTestMain">
-    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.ArrayTest" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CreatArrayWithoutNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week5.CreatArrayWithoutNew" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week2.*" />
+          <option name="PATTERN" value="Week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day12_3_Super.InstanceTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.Lab_Week6.Main" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day12_3_Super.*" />
+          <option name="PATTERN" value="Week6.Lab_Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day12_3_Super.SuperTest" />
+    <configuration name="arrayForEachElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week5.arrayForEachElement" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day12_3_Super.*" />
+          <option name="PATTERN" value="Week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Triangle" />
+    <configuration name="arrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.arrayToString" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.*" />
+          <option name="PATTERN" value="Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.arrayForEachElement" />
+        <item itemvalue="Application.arrayToString" />
+        <item itemvalue="Application.CreatArrayWithoutNew" />
         <item itemvalue="Application.StaticTestMain" />
-        <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.InstanceTest" />
-        <item itemvalue="Application.SuperTest" />
-        <item itemvalue="Application.ArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +250,11 @@
       <workItem from="1663226139386" duration="3127000" />
       <workItem from="1663251155892" duration="852000" />
       <workItem from="1663485048451" duration="558000" />
-      <workItem from="1663485624925" duration="1805000" />
+      <workItem from="1663485624925" duration="1994000" />
+      <workItem from="1663724013432" duration="729000" />
+      <workItem from="1663854879505" duration="1327000" />
+      <workItem from="1663912931302" duration="4193000" />
+      <workItem from="1664157977620" duration="3514000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -350,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662981018806</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update 2022.9.18 -- Times:01">
+      <created>1663489823294</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663489823294</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +399,8 @@
     <MESSAGE value="Update 2022.9.6 -- Times:01" />
     <MESSAGE value="Update 2022.9.6 -- Times:02" />
     <MESSAGE value="Update 2022.9.12 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.12 -- Times:01" />
+    <MESSAGE value="Update 2022.9.18 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.18 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
