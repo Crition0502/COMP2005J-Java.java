@@ -8,11 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.26 -- Times:01">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Week1_TimeCostandSort/SequenceList.java" afterDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.9.26 -- Times:02">
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/TimeCalculation/TimeIntervalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week6/TimeCalculation/nanoTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week7/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Week7/InterfacesAndPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Week1_TimeCostandSort/TimeCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/Week1_TimeCostandSort/TimeCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/Week5/time.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +100,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="CreatArrayWithoutNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week5.CreatArrayWithoutNew" />
+  <component name="RunManager" selected="Application.TimeIntervalTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.Lab_Week6.Main" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week5.*" />
+          <option name="PATTERN" value="Week6.Lab_Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.Lab_Week6.Main" />
+    <configuration name="TimeIntervalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.TimeCalculation.TimeIntervalTest" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week6.Lab_Week6.*" />
+          <option name="PATTERN" value="Week6.TimeCalculation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeIntervalTest" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.arrayForEachElement" />
         <item itemvalue="Application.arrayToString" />
-        <item itemvalue="Application.CreatArrayWithoutNew" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +245,9 @@
       <workItem from="1663854879505" duration="1327000" />
       <workItem from="1663912931302" duration="4193000" />
       <workItem from="1664157977620" duration="3694000" />
-      <workItem from="1664189021664" duration="1985000" />
+      <workItem from="1664189021664" duration="2096000" />
+      <workItem from="1664443204219" duration="2237000" />
+      <workItem from="1664807055241" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -363,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664162114902</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update 2022.9.26 -- Times:02">
+      <created>1664191276995</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664191276995</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +408,8 @@
     <MESSAGE value="Update 2022.9.12 -- Times:01" />
     <MESSAGE value="Update 2022.9.18 -- Times:01" />
     <MESSAGE value="Update 2022.9.26 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.26 -- Times:01" />
+    <MESSAGE value="Update 2022.9.26 -- Times:02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.9.26 -- Times:02" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
