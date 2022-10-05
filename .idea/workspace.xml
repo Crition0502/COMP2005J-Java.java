@@ -8,9 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.3 -- Times:01">
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/AbstractTesting.java" afterDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.4 -- Times:01">
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/EmployeeTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day15_1_Abstract/AbstractTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/AbstractTesting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +43,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/src/com/atguigu/java/UserTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -95,9 +101,22 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractTesting">
+  <component name="RunManager" selected="Application.EmployeeTesting">
     <configuration name="AbstractTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day15_1_Abstract.AbstractTesting" />
+      <module name="COMP2005J-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day15_1_Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_1_Abstract.EmployeeTesting" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
@@ -135,19 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayForEachElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week5.arrayForEachElement" />
-      <module name="COMP2005J-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1_TimeCostandSort.main" />
       <module name="Leetcode" />
@@ -163,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeTesting" />
         <item itemvalue="Application.AbstractTesting" />
         <item itemvalue="Application.TimeIntervalTest" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.arrayForEachElement" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +249,8 @@
       <workItem from="1664189021664" duration="2096000" />
       <workItem from="1664443204219" duration="2237000" />
       <workItem from="1664807055241" duration="1233000" />
-      <workItem from="1664848828720" duration="3578000" />
+      <workItem from="1664848828720" duration="7402000" />
+      <workItem from="1664946499784" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -378,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664807577453</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update 2022.10.4 -- Times:01">
+      <created>1664852786104</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664852786104</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +427,8 @@
     <MESSAGE value="Update 2022.9.26 -- Times:01" />
     <MESSAGE value="Update 2022.9.26 -- Times:02" />
     <MESSAGE value="Update 2022.10.3 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.3 -- Times:01" />
+    <MESSAGE value="Update 2022.10.4 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.4 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

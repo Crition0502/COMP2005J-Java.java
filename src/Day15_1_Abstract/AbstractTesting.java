@@ -46,6 +46,10 @@ class Student extends Person{
         super(name , age);
     }
 
+    public Student() {
+
+    }
+
     // Class 'Student' must either be declared abstract or
     // implement abstract method 'run()' in 'Person'
     // 重写之后，就可以将子类实例化
