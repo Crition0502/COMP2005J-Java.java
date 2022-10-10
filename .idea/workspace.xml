@@ -8,14 +8,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.4 -- Times:01">
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/CommonEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/EmployeeTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" afterDir="false" />
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.5 -- Times:01">
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/InsertionSort_Pro1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/RankSort_Pro1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/SelectionSort_Pro1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/Introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/PayrollSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/Excercise/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_2_Template/TemplateMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_2_Template/TemplateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15_1_Abstract/AbstractTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_1_Abstract/AbstractTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP2005J-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COMP2005J-Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +50,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/src/com/atguigu/java/UserTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,39 +64,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/A.Document/GradeTwo1/程序设计/Java/COMP2005J-Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/A.Document/GradeTwo1/程序设计/Java/COMP2005J-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -101,13 +108,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeTesting">
-    <configuration name="AbstractTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day15_1_Abstract.AbstractTesting" />
+  <component name="RunManager" selected="Application.InsertionSort_Pro1">
+    <configuration name="InsertionSort_Pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pro1.InsertionSort_Pro1" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day15_1_Abstract.*" />
+          <option name="PATTERN" value="Pro1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day15_1_Abstract.EmployeeTesting" />
+    <configuration name="RankSort_Pro1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pro1.RankSort_Pro1" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day15_1_Abstract.*" />
+          <option name="PATTERN" value="Pro1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.Lab_Week6.Main" />
+    <configuration name="RankSort_Pro1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pro1.RankSort_Pro1" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week6.Lab_Week6.*" />
+          <option name="PATTERN" value="Pro1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeIntervalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.TimeCalculation.TimeIntervalTest" />
+    <configuration name="RankSort_Pro1 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pro1.RankSort_Pro1" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week6.TimeCalculation.*" />
+          <option name="PATTERN" value="Pro1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1_TimeCostandSort.main" />
-      <module name="Leetcode" />
+    <configuration name="RankSort_Pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pro1.RankSort_Pro1" />
+      <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1_TimeCostandSort.*" />
+          <option name="PATTERN" value="Pro1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeTesting" />
-        <item itemvalue="Application.AbstractTesting" />
-        <item itemvalue="Application.TimeIntervalTest" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InsertionSort_Pro1" />
+        <item itemvalue="Application.RankSort_Pro1" />
+        <item itemvalue="Application.RankSort_Pro1 (5)" />
+        <item itemvalue="Application.RankSort_Pro1 (4)" />
+        <item itemvalue="Application.RankSort_Pro1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +257,9 @@
       <workItem from="1664443204219" duration="2237000" />
       <workItem from="1664807055241" duration="1233000" />
       <workItem from="1664848828720" duration="7402000" />
-      <workItem from="1664946499784" duration="2085000" />
+      <workItem from="1664946499784" duration="2422000" />
+      <workItem from="1664953006207" duration="3934000" />
+      <workItem from="1665403737512" duration="10313000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -392,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664852786104</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update 2022.10.5 -- Times:01">
+      <created>1664952850117</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1664952850117</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +444,8 @@
     <MESSAGE value="Update 2022.9.26 -- Times:02" />
     <MESSAGE value="Update 2022.10.3 -- Times:01" />
     <MESSAGE value="Update 2022.10.4 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.4 -- Times:01" />
+    <MESSAGE value="Update 2022.10.5 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.5 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
