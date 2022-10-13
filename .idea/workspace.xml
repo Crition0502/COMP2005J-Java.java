@@ -8,13 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.13 -- Times:01">
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.13 -- Times:02">
       <change afterPath="$PROJECT_DIR$/Project/Pro1/InsertionSort_Pro1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/Pro1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/RankSort_Pro1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/SelectionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/USB_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface_Proxy/NetworkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface_Proxy/StaticProxyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/src/com/atguigu/java/UserTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -101,13 +103,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.USB_Test (1)">
-    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.BucketSort" />
+  <component name="RunManager" selected="Application.C">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.Exercise.C" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="Day15_3_Interface.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.InterfaceTest" />
+    <configuration name="NetworkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface_Proxy.NetworkTest" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day15_3_Interface.*" />
+          <option name="PATTERN" value="Day15_3_Interface_Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.RadixSort" />
+    <configuration name="StaticProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface_Proxy.StaticProxyTest" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="Day15_3_Interface_Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.StaticProxyTest" />
+        <item itemvalue="Application.NetworkTest" />
         <item itemvalue="Application.USB_Test (1)" />
         <item itemvalue="Application.USB_Test" />
-        <item itemvalue="Application.InterfaceTest" />
-        <item itemvalue="Application.RadixSort" />
-        <item itemvalue="Application.BucketSort" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +260,7 @@
       <workItem from="1665473686416" duration="447000" />
       <workItem from="1665542858277" duration="5169000" />
       <workItem from="1665572441798" duration="37000" />
-      <workItem from="1665626345567" duration="5536000" />
+      <workItem from="1665626345567" duration="7667000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -442,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665626660884</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update 2022.10.13 -- Times:02">
+      <created>1665644202033</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665644202033</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +491,8 @@
     <MESSAGE value="Update 2022.10.10 -- Times:01" />
     <MESSAGE value="Update 2022.10.12 -- Times:01" />
     <MESSAGE value="Update 2022.10.13 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.13 -- Times:01" />
+    <MESSAGE value="Update 2022.10.13 -- Times:02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.13 -- Times:02" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
