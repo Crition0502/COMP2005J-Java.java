@@ -1,4 +1,4 @@
-package Day15_3_Interface.Exercise;
+package Day15_3_Interface.ExerciseForComplexVariable;
 
 interface A {
     int x = 0;

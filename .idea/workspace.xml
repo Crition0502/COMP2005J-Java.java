@@ -10,13 +10,14 @@
   <component name="ChangeListManager">
     <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.13 -- Times:02">
       <change afterPath="$PROJECT_DIR$/Project/Pro1/InsertionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Pro1/Pro1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/RankSort_Pro1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/SelectionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface_Proxy/NetworkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface_Proxy/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/CompareObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForComplexVariable/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Day09_OOPFunctionAndParm/AnonymousObject.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Day15_1_Abstract/PersonTest.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForComplexVariable/C.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/src/com/atguigu/java/UserTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -105,11 +106,11 @@
   </component>
   <component name="RunManager" selected="Application.C">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.Exercise.C" />
+      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.ExerciseForComplexVariable.C" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day15_3_Interface.Exercise.*" />
+          <option name="PATTERN" value="Day15_3_Interface.ExerciseForComplexVariable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,7 +261,7 @@
       <workItem from="1665473686416" duration="447000" />
       <workItem from="1665542858277" duration="5169000" />
       <workItem from="1665572441798" duration="37000" />
-      <workItem from="1665626345567" duration="7667000" />
+      <workItem from="1665626345567" duration="8948000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -451,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665644202033</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update 2022.10.13 -- Times:02">
+      <created>1665646197487</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1665646197487</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
