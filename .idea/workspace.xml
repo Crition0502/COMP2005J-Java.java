@@ -8,16 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.13 -- Times:02">
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.16 -- Times:01">
       <change afterPath="$PROJECT_DIR$/Project/Pro1/InsertionSort_Pro1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/Pro1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/RankSort_Pro1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/SelectionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/ComparableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForInterface/CompareObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Pro1/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15_3_Interface/Exercise/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15_3_Interface/ExerciseForComplexVariable/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +101,26 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C">
+  <component name="RunManager" selected="Application.LinklistTesting">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.ExerciseForComplexVariable.C" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day15_3_Interface.ExerciseForComplexVariable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinklistTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.LinkList.LinklistTesting" />
+      <module name="COMP2005J-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.LinkList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,26 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="USB_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day15_3_Interface.USB_Test" />
-      <module name="COMP2005J-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day15_3_Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinklistTesting" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.StaticProxyTest" />
         <item itemvalue="Application.NetworkTest" />
         <item itemvalue="Application.USB_Test (1)" />
-        <item itemvalue="Application.USB_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665646197487</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Update 2022.10.16 -- Times:01">
+      <created>1665901437315</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1665901437315</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +504,8 @@
     <MESSAGE value="Update 2022.10.12 -- Times:01" />
     <MESSAGE value="Update 2022.10.13 -- Times:01" />
     <MESSAGE value="Update 2022.10.13 -- Times:02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.13 -- Times:02" />
+    <MESSAGE value="Update 2022.10.16 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.16 -- Times:01" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
