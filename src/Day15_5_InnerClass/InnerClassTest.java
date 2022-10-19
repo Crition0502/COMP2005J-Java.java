@@ -35,6 +35,7 @@ public class InnerClassTest {
         //创建Bird实例(非静态的成员内部类):
 //		Person.Bird bird = new Person.Bird();//错误的
         Person p = new Person();
+
         Person.Bird bird = p.new Bird();
         bird.sing();
 
