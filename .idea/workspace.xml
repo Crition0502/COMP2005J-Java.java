@@ -8,23 +8,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.18 -- Times:01">
+    <list default="true" id="e60344a5-07ed-4299-ae9b-b52e2dcaed14" name="变更" comment="Update 2022.10.19 -- Times:01">
       <change afterPath="$PROJECT_DIR$/Project/Pro1/InsertionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Pro1/Pro1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/RankSort_Pro1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Pro1/SelectionSort_Pro1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/OOP_Lab8_Interitance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/OOP_Lab8_Interitance/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/OOP_Lab8_Interitance/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/OOP_Lab8_Interitance/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing/week9/sys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_4_Java8NewInterface/CompareA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_4_Java8NewInterface/CompareB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_4_Java8NewInterface/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_4_Java8NewInterface/SubClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_4_Java8NewInterface/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day15_5_InnerClass/InnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Error/ErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/ArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/ArrayStoreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/Exception01_DeclareThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/Exception02_CatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/NegativeArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16_ExceptionHandling/Exception/NullPointerException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,13 +109,13 @@
       <recent name="Day10_Project02_BankManagement.Demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubClassTest">
-    <configuration name="BalancedParan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.Stack.BalancedParan" />
+  <component name="RunManager" selected="Application.NullPointerException">
+    <configuration name="ArithmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16_ExceptionHandling.Exception.ArithmeticException" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week9.Stack.*" />
+          <option name="PATTERN" value="Day16_ExceptionHandling.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RankSort_Pro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pro1.RankSort_Pro1" />
-      <module name="Pro1" />
+    <configuration name="ErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16_ExceptionHandling.Error.ErrorTest" />
+      <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pro1.*" />
+          <option name="PATTERN" value="Day16_ExceptionHandling.Error.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack_ArrBased" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.Stack_ArrBased" />
+    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day15_5_InnerClass.InnerClassTest" />
       <module name="COMP2005J-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week9.*" />
+          <option name="PATTERN" value="Day15_5_InnerClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullPointerException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16_ExceptionHandling.Exception.NullPointerException" />
+      <module name="COMP2005J-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16_ExceptionHandling.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,26 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week9.sys" />
-      <module name="COMP2005J-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullPointerException" />
+        <item itemvalue="Application.ArithmeticException" />
+        <item itemvalue="Application.ErrorTest" />
+        <item itemvalue="Application.InnerClassTest" />
         <item itemvalue="Application.SubClassTest" />
-        <item itemvalue="Application.RankSort_Pro1" />
-        <item itemvalue="Application.sys" />
-        <item itemvalue="Application.BalancedParan" />
-        <item itemvalue="Application.Stack_ArrBased" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +272,10 @@
       <workItem from="1666060517932" duration="2186000" />
       <workItem from="1666080838580" duration="2752000" />
       <workItem from="1666090401968" duration="1161000" />
-      <workItem from="1666096524917" duration="3177000" />
+      <workItem from="1666096524917" duration="3826000" />
+      <workItem from="1666143953454" duration="2489000" />
+      <workItem from="1666183905006" duration="3061000" />
+      <workItem from="1666253652750" duration="2940000" />
     </task>
     <task id="LOCAL-00001" summary="Java-COMP2005J">
       <created>1661658435013</created>
@@ -495,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666061898430</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update 2022.10.18 -- Times:02">
+      <created>1666100347673</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100347673</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update 2022.10.19 -- Times:01">
+      <created>1666185026445</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1666185026445</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java-COMP2005J" />
     <MESSAGE value="Update 2022.8.29" />
     <MESSAGE value="Update 2022.8.29 -- Times:03" />
     <MESSAGE value="Update 2022.8.29 -- Times:04" />
@@ -538,7 +550,9 @@
     <MESSAGE value="Update 2022.10.13 -- Times:02" />
     <MESSAGE value="Update 2022.10.16 -- Times:01" />
     <MESSAGE value="Update 2022.10.18 -- Times:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.18 -- Times:01" />
+    <MESSAGE value="Update 2022.10.18 -- Times:02" />
+    <MESSAGE value="Update 2022.10.19 -- Times:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2022.10.19 -- Times:01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
